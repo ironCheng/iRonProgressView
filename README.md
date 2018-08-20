@@ -1,10 +1,10 @@
 # iRonProgressView
-可实时获取当前进度值的进度条 
+可实时获取当前进度值的动态进度条 
 
 
 ## Introduction
 
-    The progressView which can catch the real-time progress value
+    The animated progressView which can catch the real-time progress value
 
 ## Usage 
 
